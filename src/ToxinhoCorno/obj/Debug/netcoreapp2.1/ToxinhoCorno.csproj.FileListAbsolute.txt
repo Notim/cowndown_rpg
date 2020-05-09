@@ -1,0 +1,11 @@
+G:\Github\Testes\ToxinhoCorno\ToxinhoCorno\bin\Debug\netcoreapp2.1\ToxinhoCorno.deps.json
+G:\Github\Testes\ToxinhoCorno\ToxinhoCorno\bin\Debug\netcoreapp2.1\ToxinhoCorno.runtimeconfig.json
+G:\Github\Testes\ToxinhoCorno\ToxinhoCorno\bin\Debug\netcoreapp2.1\ToxinhoCorno.runtimeconfig.dev.json
+G:\Github\Testes\ToxinhoCorno\ToxinhoCorno\bin\Debug\netcoreapp2.1\ToxinhoCorno.dll
+G:\Github\Testes\ToxinhoCorno\ToxinhoCorno\bin\Debug\netcoreapp2.1\ToxinhoCorno.pdb
+G:\Github\Testes\ToxinhoCorno\ToxinhoCorno\obj\Debug\netcoreapp2.1\ToxinhoCorno.csprojAssemblyReference.cache
+G:\Github\Testes\ToxinhoCorno\ToxinhoCorno\obj\Debug\netcoreapp2.1\ToxinhoCorno.AssemblyInfoInputs.cache
+G:\Github\Testes\ToxinhoCorno\ToxinhoCorno\obj\Debug\netcoreapp2.1\ToxinhoCorno.AssemblyInfo.cs
+G:\Github\Testes\ToxinhoCorno\ToxinhoCorno\obj\Debug\netcoreapp2.1\ToxinhoCorno.dll
+G:\Github\Testes\ToxinhoCorno\ToxinhoCorno\obj\Debug\netcoreapp2.1\ToxinhoCorno.pdb
+G:\Github\Testes\ToxinhoCorno\ToxinhoCorno\obj\Debug\netcoreapp2.1\ToxinhoCorno.genruntimeconfig.cache
