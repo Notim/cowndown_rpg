@@ -6,7 +6,7 @@ using System.Threading;
 namespace ToxinhoCorno {
 
     public static class Battles {
-
+        /*
         public static void Battle_2x2(Hero[] herois) {
             
             Console.WriteLine("Rpg da cowdown 2 x 2:");
@@ -74,7 +74,7 @@ namespace ToxinhoCorno {
 
             return (time1, time2);
         }
-
+        */
     }
 
 }

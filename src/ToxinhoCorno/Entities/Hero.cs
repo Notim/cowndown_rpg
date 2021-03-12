@@ -4,8 +4,8 @@ using System.Linq;
 
 namespace ToxinhoCorno {
 
-    public class Hero {
-
+    public class Hero2 {
+        /*
         public string Classe { get; set; }
 
         public string NomeHeroi { get; set; }
@@ -32,7 +32,7 @@ namespace ToxinhoCorno {
 
         public List<Item> Inventario { get; set; }
 
-        public List<Magia> Skills { get; set; }
+        public List<Magic> Skills { get; set; }
 
         public bool TaVivo { get; set; } = true;
 
@@ -62,7 +62,7 @@ namespace ToxinhoCorno {
             this.ResistenciaDanoMagico = resistenciaDanoMagico;
             
             this.Inventario = new List<Item>();
-            this.Skills = new List<Magia>();
+            this.Skills = new List<Magic>();
         }
 
         public bool Critical() {
@@ -219,6 +219,7 @@ namespace ToxinhoCorno {
             
             Console.WriteLine("");
         }
+        */
     }
 
 }

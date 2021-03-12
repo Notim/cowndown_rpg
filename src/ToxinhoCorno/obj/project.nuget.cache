@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "lMzH9XB9edSv9tcaRz0YJsJoYI7zSisY2y1BqcRrU2tUnjbuXXkN3Sg7i7t/ebmQ2oRSYgpz+FA65ifo+J1eXQ==",
+  "success": true,
+  "projectFilePath": "C:\\wamp64\\www\\dev\\cowndown_rpg\\src\\ToxinhoCorno\\ToxinhoCorno.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fx\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\fx\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\fx\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\fx\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\fx\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\fx\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\fx\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

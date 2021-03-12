@@ -9,3 +9,15 @@ G:\Github\Testes\ToxinhoCorno\ToxinhoCorno\obj\Debug\netcoreapp2.1\ToxinhoCorno.
 G:\Github\Testes\ToxinhoCorno\ToxinhoCorno\obj\Debug\netcoreapp2.1\ToxinhoCorno.dll
 G:\Github\Testes\ToxinhoCorno\ToxinhoCorno\obj\Debug\netcoreapp2.1\ToxinhoCorno.pdb
 G:\Github\Testes\ToxinhoCorno\ToxinhoCorno\obj\Debug\netcoreapp2.1\ToxinhoCorno.genruntimeconfig.cache
+C:\wamp64\www\dev\cowndown_rpg\src\ToxinhoCorno\obj\Debug\netcoreapp2.1\ToxinhoCorno.csprojAssemblyReference.cache
+C:\wamp64\www\dev\cowndown_rpg\src\ToxinhoCorno\obj\Debug\netcoreapp2.1\ToxinhoCorno.AssemblyInfoInputs.cache
+C:\wamp64\www\dev\cowndown_rpg\src\ToxinhoCorno\obj\Debug\netcoreapp2.1\ToxinhoCorno.AssemblyInfo.cs
+C:\wamp64\www\dev\cowndown_rpg\src\ToxinhoCorno\obj\Debug\netcoreapp2.1\ToxinhoCorno.csproj.CoreCompileInputs.cache
+C:\wamp64\www\dev\cowndown_rpg\src\ToxinhoCorno\obj\Debug\netcoreapp2.1\ToxinhoCorno.dll
+C:\wamp64\www\dev\cowndown_rpg\src\ToxinhoCorno\obj\Debug\netcoreapp2.1\ToxinhoCorno.pdb
+C:\wamp64\www\dev\cowndown_rpg\src\ToxinhoCorno\bin\Debug\netcoreapp2.1\ToxinhoCorno.deps.json
+C:\wamp64\www\dev\cowndown_rpg\src\ToxinhoCorno\bin\Debug\netcoreapp2.1\ToxinhoCorno.runtimeconfig.json
+C:\wamp64\www\dev\cowndown_rpg\src\ToxinhoCorno\bin\Debug\netcoreapp2.1\ToxinhoCorno.runtimeconfig.dev.json
+C:\wamp64\www\dev\cowndown_rpg\src\ToxinhoCorno\bin\Debug\netcoreapp2.1\ToxinhoCorno.dll
+C:\wamp64\www\dev\cowndown_rpg\src\ToxinhoCorno\bin\Debug\netcoreapp2.1\ToxinhoCorno.pdb
+C:\wamp64\www\dev\cowndown_rpg\src\ToxinhoCorno\obj\Debug\netcoreapp2.1\ToxinhoCorno.genruntimeconfig.cache

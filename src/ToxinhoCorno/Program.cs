@@ -1,9 +1,24 @@
 ﻿using System;
+using ToxinhoCorno.Entities.HeroClasses;
+
 namespace ToxinhoCorno {
 
     class Program {
 
+        static void Att()
+        {
+            Hero hero1 = new Warrior("TioZangs");
+
+            Hero hero2 = new Mage("Suricato");
+
+            Console.WriteLine(hero1);
+            Console.WriteLine(hero2);
+        }
+
         static void Main(string[] args) {
+            Att();
+            return;
+            /*
             var paladino = new Hero(
                 classe: "Paladino",
                 nomeHeroi: "Pockieddw",
@@ -30,19 +45,19 @@ namespace ToxinhoCorno {
                 }
             });
             paladino.CalcularItens();
-            paladino.Skills.Add(new Magia {
+            paladino.Skills.Add(new Magic {
                 Nome       = "Luz Divina",
                 ChanceErro = 10,
                 CustoMana  = 70,
                 Cura       = 140
             });
-            paladino.Skills.Add(new Magia {
+            paladino.Skills.Add(new Magic {
                 Nome       = "Ataque de ursos",
                 ChanceErro = 15,
                 CustoMana  = 90,
                 DanoMagico = 120
             });
-            paladino.Skills.Add(new Magia {
+            paladino.Skills.Add(new Magic {
                 Nome       = "Braza do Tenar",
                 ChanceErro = 25,
                 CustoMana  = 150,
@@ -76,20 +91,20 @@ namespace ToxinhoCorno {
             });
             mago.CalcularItens();
             
-            mago.Skills.Add(new Magia {
+            mago.Skills.Add(new Magic {
                 Nome = "Dragão do Vazio",
                 ChanceErro = 12,
                 CustoMana = 80,
                 DanoMagico = 110
             });
-            mago.Skills.Add(new Magia {
+            mago.Skills.Add(new Magic {
                 Nome       = "Cura do illuminatti",
                 ChanceErro = 1,
                 CustoMana  = 80,
                 DanoMagico = 0,
                 Cura       = 100,
             });
-            mago.Skills.Add(new Magia {
+            mago.Skills.Add(new Magic {
                 Nome       = "MUITO DAMAGE",
                 ChanceErro = 25,
                 CustoMana  = 250,
@@ -120,21 +135,21 @@ namespace ToxinhoCorno {
                 },
             });
             barbaro.CalcularItens();
-            barbaro.Skills.Add(new Magia {
+            barbaro.Skills.Add(new Magic {
                 Nome       = "Pele de Pedra",
                 ChanceErro = 35,
                 CustoMana  = 80,
                 DanoMagico = 0,
                 Cura       = 200
             });
-            barbaro.Skills.Add(new Magia {
+            barbaro.Skills.Add(new Magic {
                 Nome       = "Pedra de Fogo",
                 ChanceErro = 40,
                 CustoMana  = 50,
                 DanoMagico = 100,
                 Cura       = 0,
             });
-            barbaro.Skills.Add(new Magia {
+            barbaro.Skills.Add(new Magic {
                 Nome       = "Rugido",
                 ChanceErro = 50,
                 CustoMana  = 70,
@@ -171,20 +186,20 @@ namespace ToxinhoCorno {
             });
             ladrao.CalcularItens();
             
-            ladrao.Skills.Add(new Magia {
+            ladrao.Skills.Add(new Magic {
                 Nome       = "Arrastão",
                 ChanceErro = 10,
                 CustoMana  = 80,
                 DanoMagico = 110
             });
-            ladrao.Skills.Add(new Magia {
+            ladrao.Skills.Add(new Magic {
                 Nome       = "Injeção achada no lixo",
                 ChanceErro = 50,
                 CustoMana  = 70,
                 DanoMagico = 0,
                 Cura       = 150,
             });
-            ladrao.Skills.Add(new Magia {
+            ladrao.Skills.Add(new Magic {
                 Nome       = "Vou te roubei",
                 ChanceErro = 25,
                 CustoMana  = 170,
@@ -222,20 +237,20 @@ namespace ToxinhoCorno {
             });
             guerreiro.CalcularItens();
             
-            guerreiro.Skills.Add(new Magia {
+            guerreiro.Skills.Add(new Magic {
                 Nome       = "Grito de ira",
                 ChanceErro = 10,
                 CustoMana  = 70,
                 DanoMagico = 150
             });
-            guerreiro.Skills.Add(new Magia {
+            guerreiro.Skills.Add(new Magic {
                 Nome       = "Anjo da guarda",
                 ChanceErro = 50,
                 CustoMana  = 100,
                 DanoMagico = 0,
                 Cura       = 200,
             });
-            guerreiro.Skills.Add(new Magia {
+            guerreiro.Skills.Add(new Magic {
                 Nome       = "Fome de batalha",
                 ChanceErro = 25,
                 CustoMana  = 110,
@@ -251,6 +266,7 @@ namespace ToxinhoCorno {
             };
 
             Battles.Battle_2x2(heroes);
+            */
         }
     }
     

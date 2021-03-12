@@ -1,6 +1,6 @@
 namespace ToxinhoCorno {
 
-    public class Magia {
+    public class Magic {
 
         public string Nome { get; set; }
 
